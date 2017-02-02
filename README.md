@@ -1,4 +1,4 @@
-# Yokai-no-Mori
+# Yokai no Mori
 Projet réalisé avec Qt en première année de DUT informatique
 
 --------------------------
