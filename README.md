@@ -15,3 +15,7 @@ Les prérequis demandés par les professeurs étaient les suivants :
 - Affichage graphique (les bibliothèques graphiques étaient libres, d'où mon choix de Qt)
 J'ai ajouté à ceux-ci une intelligence artificielle primaire (contre laquelle il est possible de jouer... Ou qui peut jouer contre elle-même !) ainsi qu'un fond musical.
 Ce projet m'a pris environ 80 heures entre la conception et le développement. Il est à noter que c'était le premier projet que je réalisais avec Qt, d'où le temps assez élevé. (L'IA a pris également beaucoup de temps, étant donné que l'évaluation d'une position sur un jeu que l'on ne connaît que très peu est difficile.)
+
+--------------------------
+
+YNM_Maxence_Cornaton.zip est la version compilée du projet pour Windows. Deux easter eggs sont cachés dans ce projet, saurez-vous les déclencher ? ;)
